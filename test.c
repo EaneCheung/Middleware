@@ -4,6 +4,9 @@
 int main()
 {
 int a;
+int b,c;
 
+c=a+b;
 
+return c;
 }
